@@ -15,7 +15,7 @@ describe('Fibonacci number generator', () => {
       5: 5,
       10: 55
     };
-    
+
     _.keys(fibs).forEach(n => {
       expect(getNthFibonacciNumber(Number(n))).toBe(fibs[n]);
     });
