@@ -9,6 +9,8 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+You can also view the app live, via https://hollandmatt.github.io/fibonacci/
+
 To run the unit tests, enter:
 
 ```
