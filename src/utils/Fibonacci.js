@@ -3,8 +3,11 @@
  */
 
 /**
- * Generate an array with the first n entries in the Fibonacci sequence.
- *
+ * Generate an array with the first n entries in the Fibonacci sequence. Note that the same memoized
+ * set is passed to the call for each individual number, meaning they do not have to be re-calculated.
+ * 
+ * Complexity is O(n).
+ * 
  * @param {*} n How many numbers to generate
  */
 const getFirstNFibonacciNumbers = n => {
@@ -21,7 +24,9 @@ const getFirstNFibonacciNumbers = n => {
 /**
  * Get the nth number in the Fibonacci sequence.
  *
- * We're memoizing numbers we have already calculated to reduce the complexity of the algorithm.
+ * We're memoizing numbers we have already calculated to reduce the complexity of the algorithm. 
+ * 
+ * Complexity is O(n).
  *
  * @param {*} n Which Fibonacci number to generate
  * @param {*} memo The memoized numbers
