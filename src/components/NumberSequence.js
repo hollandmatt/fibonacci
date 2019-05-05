@@ -4,6 +4,10 @@ import PropTypes from 'prop-types';
 
 import './NumberSequence.css';
 
+/**
+ * This component will generate the actual number sequence, given a count of numbers to
+ * generate.
+ */
 const NumberSequence = ({ count }) => {
   if (count === 0) return null;
 

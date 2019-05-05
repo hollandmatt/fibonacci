@@ -3,6 +3,9 @@ import PropTypes from 'prop-types';
 
 import './NumberPicker.css';
 
+/**
+ * The NumberPicker component wraps an HTML number input.
+ */
 const NumberPicker = ({ onChange, count }) => {
   return (
     <div className="NumberPicker">
