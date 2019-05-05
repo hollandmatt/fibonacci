@@ -1,0 +1,12 @@
+.NumberSequence {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 2em;
+  overflow: auto;
+  max-height: 75vh;
+}
+
+.FibonacciNumber {
+  margin-bottom: 0.5em;
+  margin-right: 1em;
+}
