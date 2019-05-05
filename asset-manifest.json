@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fibonacci/static/css/main.344de0bd.chunk.css",
+    "main.js": "/fibonacci/static/js/main.28649fe3.chunk.js",
+    "main.js.map": "/fibonacci/static/js/main.28649fe3.chunk.js.map",
+    "runtime~main.js": "/fibonacci/static/js/runtime~main.f6d00e87.js",
+    "runtime~main.js.map": "/fibonacci/static/js/runtime~main.f6d00e87.js.map",
+    "static/js/2.d042e1ad.chunk.js": "/fibonacci/static/js/2.d042e1ad.chunk.js",
+    "static/js/2.d042e1ad.chunk.js.map": "/fibonacci/static/js/2.d042e1ad.chunk.js.map",
+    "index.html": "/fibonacci/index.html",
+    "precache-manifest.e3a9782fd8e6e9e92be714b0ce8c6e64.js": "/fibonacci/precache-manifest.e3a9782fd8e6e9e92be714b0ce8c6e64.js",
+    "service-worker.js": "/fibonacci/service-worker.js",
+    "static/css/main.344de0bd.chunk.css.map": "/fibonacci/static/css/main.344de0bd.chunk.css.map"
+  }
+}
